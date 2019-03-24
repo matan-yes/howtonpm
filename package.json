@@ -1,0 +1,22 @@
+{
+  "name": "@matanyes/howtonpm",
+  "version": "1.0.0",
+  "description": "This packege will walk me through how to make npm packege",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "howtonpm"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "matan-yes",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
