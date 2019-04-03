@@ -1,10 +1,10 @@
 {
   "name": "@matanyes/howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This packege will walk me through how to make npm packege",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
